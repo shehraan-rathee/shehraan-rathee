@@ -32,15 +32,15 @@
 <table align="center">
   <tr>
     <td align="center">🕹️</td>
-    <td><b>[Project Name]</b><br/><sub>Short description of what it does</sub></td>
+    <td><b>The Adventures of Octoking </b><br/><sub>Multiplayer Online 1v1 turn based game</sub></td>
   </tr>
   <tr>
     <td align="center">🕹️</td>
-    <td><b>[Project Name]</b><br/><sub>Short description of what it does</sub></td>
+    <td><b>International Space Station Live Location</b><br/><sub>Uses an API to update you on live location of the ISS</sub></td>
   </tr>
   <tr>
     <td align="center">🕹️</td>
-    <td><b>[Project Name]</b><br/><sub>Short description of what it does</sub></td>
+    <td><b>Automated Zoom Annotations</b><br/><sub>A ml10 trained machine learning model which choose zoom annotations based on your action</sub></td>
   </tr>
 </table>
 
