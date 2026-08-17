@@ -1,3 +1,23 @@
+<h1 align="center">
+  ⬛ SHEHRAAN-RATHEE ⬛
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=39FF14&background=000000&center=true&width=440&lines=LOADING+ARCHIVE...;PRESS+START" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ARCHIVED-black?style=flat-square&labelColor=000000&color=39FF14" />
+  <img src="https://img.shields.io/badge/YEARS-2019--2024-black?style=flat-square&labelColor=000000&color=39FF14" />
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### > ABOUT_THIS_ARCHIVE.txt
+An archive of old "artefacts" built years ago — some finished,
+some abandoned mid-build, most made just to see if I could.
+A few of them still hold up.
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### > FEATURED_PROJECTS
