@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=39FF14&background=000000&center=true&width=600&lines=SHEHRAAN-RATHEE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=39FF14&background=000000&center=true&width=600&lines=SHEHRAAN-RATHEE" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=39FF14&background=000000&center=true&width=440&lines=LOADING+ARCHIVE...;PRESS+START" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=39FF14&background=000000&center=true&width=440&lines=LOADING+ARCHIVE...;PRESS+START" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+about_this_archive" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+about_this_archive" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+featured_projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+featured_projects" />
 </p>
 
 <table align="center">
@@ -47,7 +47,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+tech_stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+tech_stack" />
 </p>
 
 <p align="center">
@@ -61,16 +61,16 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=%3E+connect" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shehraan-rathee-077689424/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>
-  <img src="https://img.shields.io/badge/DISCORD-sugarplumfairy-000000?style=flat-square&logo=discord&logoColor=5865F2" />
+  <a href="https://www.linkedin.com/in/shehraan-rathee-077689424/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/DISCORD-sugarplumfairy-000000?style=flat-square&logo=discord&logoColor=white" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=GAME+OVER+-+INSERT+COIN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=39FF14&background=000000&center=true&width=500&lines=GAME+OVER+-+INSERT+COIN" />
 </p>
